@@ -10,3 +10,11 @@
 ## Submission
 
 Submit completed Colab notebook showing generated output.
+
+## Explain transformer
+
+- Transformer is significant because it is good at modeling sequential data such as natural languages.
+
+- Transformers replaced recurrence with attention, so computations can happen simultaneously.
+
+- Transformers are able to capture distant or long-range contexts, because attention allows each location have access to the entire input. In RNN and CNN, the information need to go through many processing steps which makes it harder to learn.
